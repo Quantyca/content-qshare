@@ -2,7 +2,7 @@
 
 Travate qui di seguito la lista di tutte le risorse menzionate durante il primo episodio della serire Smart Q-Share dedicato al tema dei sistemi di raccomandazione.
 
-L'evento è stato trasmesso in streaming il 26-03-2020. Qui potete trovare la registrazione video e la presentazione.
+L'evento è stato trasmesso in streaming il 26-03-2020. Qui potete trovare la [registrazione video](https://www.youtube.com/watch?v=wZxEZ-sC2Hk&feature=youtu.be&t=4) e [la presentazione](https://drive.google.com/file/d/166p9jql3wdPAOq8cK4DxEVEQpf1Twt0B/view).
 
 Di seguito trvate tutti i link menzionati suddivisi per sezione. Se avete qualche link interessante da suggerire sul tema aprite pure un pull request lo mergeremo il prima possibile.
 
