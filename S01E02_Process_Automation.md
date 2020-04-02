@@ -17,8 +17,8 @@ Buona lettura/ascolto!
 # 02 - Perchè automatizzare
 
 ## Links
-- https://www.forbes.com/sites/accenture/2016/02/10/forget-innovation-lets-talk-experimentation/#43e87e536238
-- https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2016-09-1/NET-2016-09-1_02.pdf
+- [Forget Innovation lets talk Experimentation](https://www.forbes.com/sites/accenture/2016/02/10/forget-innovation-lets-talk-experimentation/#43e87e536238)
+- [Resilience Metrics](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2016-09-1/NET-2016-09-1_02.pdf)
 
 # 03 - Aree in cui si puo’ applicare l’automazione IT
 
@@ -41,8 +41,8 @@ Buona lettura/ascolto!
 # 05 - Livelli di automazione
 
 ## Links
-- https://petrowiki.org/Levels_of_automation
-- https://isg-one.com/research/articles/automation-autonomy-and-the-messy-in-between
+- [Levels_of_Automation](https://petrowiki.org/Levels_of_automation)
+- [Automation, Autonomy and the Messy In-Between](https://isg-one.com/research/articles/automation-autonomy-and-the-messy-in-between)
 
 # 06 - Automation maturity model
 
@@ -53,8 +53,8 @@ Buona lettura/ascolto!
 # 07 - Tool di Automazione
 
 ## Links
-- https://medium.com/quantyca/salt-essentials-339b3f099a7d
-- https://www.oreilly.com/content/why-use-terraform/
+- [Salt Essentials](https://medium.com/quantyca/salt-essentials-339b3f099a7d)
+- [Why use Terraform](https://www.oreilly.com/content/why-use-terraform/)
 
 # 08 - Use cases
 
