@@ -17,7 +17,8 @@ Buona lettura/ascolto!
 # 02 - Perchè automatizzare
 
 ## Links
-- TODO
+- https://www.forbes.com/sites/accenture/2016/02/10/forget-innovation-lets-talk-experimentation/#43e87e536238
+- https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2016-09-1/NET-2016-09-1_02.pdf
 
 # 03 - Aree in cui si puo’ applicare l’automazione IT
 
@@ -40,7 +41,8 @@ Buona lettura/ascolto!
 # 05 - Livelli di automazione
 
 ## Links
-- TODO
+- https://petrowiki.org/Levels_of_automation
+- https://isg-one.com/research/articles/automation-autonomy-and-the-messy-in-between
 
 # 06 - Automation maturity model
 
@@ -51,14 +53,15 @@ Buona lettura/ascolto!
 # 07 - Tool di Automazione
 
 ## Links
-- TODO
+- https://medium.com/quantyca/salt-essentials-339b3f099a7d
+- https://www.oreilly.com/content/why-use-terraform/
 
 # 08 - Use cases
 
 ## Links
-- TODO
+- N.A.
 
 # 09 - Conclusioni
 
 ## Links
-- TODO
+- N.A.
