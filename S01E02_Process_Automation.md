@@ -23,20 +23,20 @@ Buona lettura/ascolto!
 # 03 - Aree in cui si puo’ applicare l’automazione IT
 
 ## Links
-- https://hackernoon.com/sreies-part-1-configuration-management-9cfdb4e9e303
-- https://blog.identityautomation.com/can-investing-in-iam-save-my-company-money
-- https://www.computerweekly.com/feature/How-to-bolster-IAM-strategies-using-automation
-- https://humansofdata.atlan.com/2019/11/what-is-dataops/
+- [SREies Part 1: Configuration Management](https://hackernoon.com/sreies-part-1-configuration-management-9cfdb4e9e303)
+- [Can Investing in IAM Save My Institution Money?](https://blog.identityautomation.com/can-investing-in-iam-save-my-company-money)
+- [How to bolster IAM strategies using automation](https://www.computerweekly.com/feature/How-to-bolster-IAM-strategies-using-automation)
+- [From Data Oops to DataOps: 5 Things You Need to Know](https://humansofdata.atlan.com/2019/11/what-is-dataops/)
 
 # 04 - Automation Pattern
 
 ## Links
-- https://www.hashicorp.com/resources/what-is-infrastructure-as-code
-- https://www.youtube.com/watch?v=S6vS5mzivFo&t=880s
-- https://www.youtube.com/watch?v=G3D14I5_NIk
-- https://tech.ovoenergy.com/imperative-vs-declarative/
-- https://tech.ovoenergy.com/when-was-the-last-time-you-deleted-your-infrastructure/
-- https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure
+- [Infrastructure as Code: What Is It? Why Is It Important?](https://www.hashicorp.com/resources/what-is-infrastructure-as-code)
+- [Infrastructure as Code in the Real World](https://www.youtube.com/watch?v=S6vS5mzivFo&t=880s)
+- [Getting Started with Infrastructure as Code (IaC)](https://www.youtube.com/watch?v=G3D14I5_NIk)
+- [Infrastructure as Code: Imperative vs Declarative](https://tech.ovoenergy.com/imperative-vs-declarative/)
+- [When was the last time you deleted your infrastructure?](https://tech.ovoenergy.com/when-was-the-last-time-you-deleted-your-infrastructure/)
+- [What is Mutable vs. Immutable Infrastructure?](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure)
 
 # 05 - Livelli di automazione
 
@@ -47,7 +47,7 @@ Buona lettura/ascolto!
 # 06 - Automation maturity model
 
 ## Links
-- Site Reliability Engineering: How Google Runs Production Systems (Niall Richard Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff): https://landing.google.com/sre/books/
+- [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/books/)
 
 
 # 07 - Tool di Automazione
