@@ -22,12 +22,20 @@ Buona lettura/ascolto!
 # 03 - Aree in cui si puo’ applicare l’automazione IT
 
 ## Links
-- TODO
+- https://hackernoon.com/sreies-part-1-configuration-management-9cfdb4e9e303
+- https://blog.identityautomation.com/can-investing-in-iam-save-my-company-money
+- https://www.computerweekly.com/feature/How-to-bolster-IAM-strategies-using-automation
+- https://humansofdata.atlan.com/2019/11/what-is-dataops/
 
 # 04 - Automation Pattern
 
 ## Links
-- TODO
+- https://www.hashicorp.com/resources/what-is-infrastructure-as-code
+- https://www.youtube.com/watch?v=S6vS5mzivFo&t=880s
+- https://www.youtube.com/watch?v=G3D14I5_NIk
+- https://tech.ovoenergy.com/imperative-vs-declarative/
+- https://tech.ovoenergy.com/when-was-the-last-time-you-deleted-your-infrastructure/
+- https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure
 
 # 05 - Livelli di automazione
 
@@ -37,7 +45,8 @@ Buona lettura/ascolto!
 # 06 - Automation maturity model
 
 ## Links
-- TODO
+- Site Reliability Engineering: How Google Runs Production Systems (Niall Richard Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff): https://landing.google.com/sre/books/
+
 
 # 07 - Tool di Automazione
 
