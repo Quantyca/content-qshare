@@ -18,6 +18,8 @@ Buona lettura/ascolto!
 
 ## Links
 - [Forget Innovation lets talk Experimentation](https://www.forbes.com/sites/accenture/2016/02/10/forget-innovation-lets-talk-experimentation/#43e87e536238)
+- [Software automation isn't about efficiency](https://www.linkedin.com/pulse/software-automation-isnt-efficiency-gregor-hohpe/)
+- [Connecting the dots: how the cloud operating model meets enterprise CIO needs](https://cloud.google.com/blog/products/gcp/connecting-dots-how-cloud-operating-model-meets-enterprise-cio-needs)
 - [Resilience Metrics](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2016-09-1/NET-2016-09-1_02.pdf)
 
 # 03 - Aree in cui si puo’ applicare l’automazione IT
