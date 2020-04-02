@@ -12,7 +12,8 @@ Buona lettura/ascolto!
 # 01 - Intro
 
 ## Links
-- TODO
+- [IT process automation](https://en.wikipedia.org/wiki/IT_process_automation)
+- [Robotic process automation](https://en.wikipedia.org/wiki/Robotic_process_automation)
 
 # 02 - Perchè automatizzare
 
@@ -50,6 +51,7 @@ Buona lettura/ascolto!
 
 ## Links
 - [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/books/)
+- [The Evolution of Automation at Google](https://landing.google.com/sre/sre-book/chapters/automation-at-google/)
 
 
 # 07 - Tool di Automazione
