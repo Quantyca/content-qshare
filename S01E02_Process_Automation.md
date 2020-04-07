@@ -2,7 +2,7 @@
 
 Travate qui di seguito la lista di tutte le risorse menzionate durante il secondo episodio della serire Smart Q-Share dedicato al tema dell'automazione dei processi.
 
-L'evento è stato trasmesso in streaming il 02-04-2020. Qui potete trovare la [registrazione video](TODO) e [la presentazione](TODO).
+L'evento è stato trasmesso in streaming il 02-04-2020. Qui potete trovare la [registrazione video](https://www.youtube.com/watch?v=2s_2viA8Gzs&feature=youtu.be) e [la presentazione](https://drive.google.com/file/d/18ZYHrhnFJitMXMPJAhbwU10W-C0btDQ6/view).
 
 Di seguito trvate tutti i link menzionati suddivisi per sezione. Se avete qualche link interessante da suggerire sul tema aprite pure un pull request lo mergeremo il prima possibile.
 
