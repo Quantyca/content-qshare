@@ -12,7 +12,7 @@ Buona lettura/ascolto!
 # 01 - Intro
 
 ## Links
-- ...
+- [Data-Driven: cosa significa e perchè un approccio basato sui dati è importante in azienda](https://www.digital4.biz/marketing/big-data-e-analytics/sei-regole-d-oro-per-un-data-driven-marketing-di-successo/)
 
 # 02 - Data Blending
 
