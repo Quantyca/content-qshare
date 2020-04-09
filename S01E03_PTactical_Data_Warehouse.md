@@ -23,12 +23,15 @@ Buona lettura/ascolto!
 # 03 - Consumption Layer
 
 ## Links
-- ...
+- [Snowflake](https://www.snowflake.com/)
 
 # 04 - Data Virtualization
 
 ## Links
-- ...
+- [The Next Generation Logical Data Warehouse: It’s Time to Democratize the Data](https://www.dataversity.net/next-generation-logical-data-warehouse-time-democratize-data)
+-[TIBCO Data Virtualization](https://www.tibco.com/products/data-virtualization)
+- [How to solve the datalake organizational puzzle with a layered architecture](https://medium.com/quantyca/how-to-solve-the-datalake-organizational-puzzle-with-a-layered-architecture-e267d645c81e)
+-[Progettare un datawarehouse moderno](https://medium.com/quantyca/progettare-un-datawarehouse-moderno-24e35e973860)
 
 # 05 - Conclusioni
 
