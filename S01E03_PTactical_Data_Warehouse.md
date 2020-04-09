@@ -23,7 +23,11 @@ Buona lettura/ascolto!
 # 03 - Consumption Layer
 
 ## Links
-- [Snowflake](https://www.snowflake.com/)
+- [Snowflake - Homepage](https://www.snowflake.com/)
+- [Snowflake - GArchitecture & Key Concepts](https://www.youtube.com/watch?v=dZlBCLLL7UA)
+- [Snowflake - Zero copy clone](https://www.youtube.com/watch?v=yQIMmXg7Seg)
+- [Snowflake - Easily Loading and Analyzing Semi-Structured Data in Snowflake](https://www.youtube.com/watch?v=H0sbMDqdYQ8&list=PL4IM5KTx_T7hBvbHgLKEqWp75CumkicJI&index=2)
+- [Webinar: Snowflake, una data platform coi fiocchi](https://www.snowflake.com/webinar/webinar-snowflake-una-data-platform-coi-fiocchi/)
 
 # 04 - Data Virtualization
 
