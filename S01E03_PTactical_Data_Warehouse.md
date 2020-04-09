@@ -17,7 +17,9 @@ Buona lettura/ascolto!
 # 02 - Data Blending
 
 ## Links
-- ...
+- [Data Wrangling with Spotfire](https://www.tibco.com/products/tibco-spotfire/data-wrangling)
+- [Data Blending with Microstrategy](https://www2.microstrategy.com/producthelp/current/Oracle18c/en-us/Content/Oracle18c/Data_Blending_010_002_006.htm)
+- [Blend data with Power BI](https://www.youtube.com/watch?v=w3qFxcy88iE)
 
 
 # 03 - Consumption Layer
