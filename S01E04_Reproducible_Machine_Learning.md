@@ -42,19 +42,19 @@ Buona lettura/ascolto!
 
 # 04 - Data Versioning & Feature store
 
-NA
+- [DVC - Agenda](https://dvc.org/doc/tutorials/get-started/agenda)
 
 # 05 - Workflow automation
 
-NA
+- [DVC - Agenda](https://dvc.org/doc/tutorials/get-started/agenda)
 
 # 06 - Experiment tracking
 
-NA
+- [MLFlow - Tracking](https://www.mlflow.org/docs/latest/tracking.html)
 
 # 06 - Model versioning
 
-NA
+- [MLFlow - Model Registry](https://www.mlflow.org/docs/latest/model-registry.htmll)
 
 # 07 - Model serving
 
