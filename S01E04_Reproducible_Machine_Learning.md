@@ -31,11 +31,14 @@ Buona lettura/ascolto!
 
 # 02 - Ambiente di sviluppo
 
-NA
+- [Cos’è Docker ? Perché dovrei interessarmi di Docker?](https://managedserver.it/cose-docker-perche-dovrei-interessarmi-di-docker/)
+- [Perchè Docker è così importante](http://www.clickode.com/2016/01/26/why-docker-important/)
+- [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
+- [Understanding Conda and Pip](https://www.anaconda.com/understanding-conda-and-pip/)
 
 # 03 - Project Structure & Coding Best Practices
 
-NA
+- [Il Sistema Di Controllo Di Versione GIT](http://losviluppatore.it/il-sistema-di-controllo-di-versione-git/)
 
 # 04 - Data Versioning & Feature store
 
@@ -55,7 +58,10 @@ NA
 
 # 07 - Model serving
 
-NA
+- [Deploying Keras models using TensorFlow Serving and Flask](https://towardsdatascience.com/deploying-keras-models-using-tensorflow-serving-and-flask-508ba00f1037)
+- [There are two very different ways to deploy ML models, here’s both](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1)
+- [Kubeflow - Tools for Serving](https://www.kubeflow.org/docs/components/serving/)
+- [BentoML](https://github.com/bentoml/BentoML/)
 
 # 08 - Conclusioni
 
