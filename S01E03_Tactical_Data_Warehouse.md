@@ -1,6 +1,6 @@
 # Episodio 03: Tacticatl Data Warehouse
 
-Travate qui di seguito la lista di tutte le risorse menzionate durante il secondo episodio della serire Smart Q-Share dedicato al tema del Data Warehouse tattico.
+Travate qui di seguito la lista di tutte le risorse menzionate durante il secondo episodio della serie Smart Q-Share dedicato al tema del Data Warehouse tattico.
 
 L'evento è stato trasmesso in streaming il 02-04-2020. Qui potete trovare la [registrazione video](TODO) e [la presentazione](TODO).
 
