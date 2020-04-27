@@ -1,6 +1,6 @@
 # Episodio 05: Observability
 
-Travate qui di seguito la lista di tutte le risorse menzionate durante il secondo episodio della serie Smart Q-Share dedicato al tema del Reproducible Machine Learning.
+Travate qui di seguito la lista di tutte le risorse menzionate durante il quinto episodio della serie Smart Q-Share dedicato al tema dell'Observability.
 
 L'evento è stato trasmesso in streaming il 23-04-2020. 
 Qui potete trovare la [registrazione video](https://youtu.be/e2qKfNBTV28) e [la presentazione](https://drive.google.com/a/quantyca.it/file/d/1K8AijrWfPGJYuUm4tKuhv-7QqyECFx3W/view?usp=sharing).
