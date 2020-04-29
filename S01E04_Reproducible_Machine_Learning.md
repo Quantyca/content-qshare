@@ -2,7 +2,7 @@
 
 Travate qui di seguito la lista di tutte le risorse menzionate durante il secondo episodio della serie Smart Q-Share dedicato al tema del Reproducible Machine Learning.
 
-L'evento è stato trasmesso in streaming il 16-04-2020. Qui potete trovare la [registrazione video](TODO) e [la presentazione](TODO).
+L'evento è stato trasmesso in streaming il 16-04-2020. Qui potete trovare la [registrazione video](https://www.youtube.com/watch?v=he3p9IUnVtk&feature=youtu.be) e [la presentazione](https://drive.google.com/file/d/1EczvkjrnXLCSUm0a3AnX_Yq1YzqnHsz1/view).
 
 Di seguito trvate tutti i link menzionati suddivisi per sezione. Se avete qualche link interessante da suggerire sul tema aprite pure un pull request lo mergeremo il prima possibile.
 
